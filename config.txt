@@ -1,1 +1,1 @@
-Speed = 50
+Speed=70
