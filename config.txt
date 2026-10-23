@@ -1,1 +1,2 @@
 Speed=70
+power=24V
