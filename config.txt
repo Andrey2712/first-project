@@ -1,2 +1,2 @@
-Speed=50
+Speed=80
 power=24V
