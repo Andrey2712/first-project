@@ -1,0 +1,3 @@
+Camera enabled
+Resolution: 1920x1080
+FPS: 30
