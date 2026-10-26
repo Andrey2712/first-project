@@ -1,0 +1,2 @@
+Telemetry enabled
+Frequency: 10 Hz
