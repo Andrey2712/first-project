@@ -1,1 +1,2 @@
 Sensors enabled
+Sampling frequency: 20 Hz
