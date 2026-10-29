@@ -1,1 +1,3 @@
 Alarms enabled
+
+Low battery warning: 20%
